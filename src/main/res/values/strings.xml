@@ -1,0 +1,6 @@
+<resources>
+    <string name="cbv_code_copy">Copy</string>
+    <string name="cbv_code_copied">Copied</string>
+    <string name="cbv_code_clip_label">Code snippet</string>
+    <string name="cbv_code_plain">Code</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="cbv_code_copy">Kopyala</string>
+    <string name="cbv_code_copied">Kopyalandı</string>
+    <string name="cbv_code_clip_label">Kod örneği</string>
+    <string name="cbv_code_plain">Kod</string>
+</resources>

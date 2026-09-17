@@ -1,0 +1,12 @@
+<resources>
+    <color name="cbv_md_on_surface_variant">#4A4459</color>
+    <color name="cbv_md_surface_container_high">#ECE6F0</color>
+    <color name="cbv_md_outline_variant">#D5CEDC</color>
+    <color name="cbv_code_block_background">#F1EDF9</color>
+    <color name="cbv_code_block_text">#1B1B21</color>
+    <color name="cbv_code_comment">#62566F</color>
+    <color name="cbv_code_string">#35652B</color>
+    <color name="cbv_code_keyword">#713EAF</color>
+    <color name="cbv_code_number">#175A9C</color>
+    <color name="cbv_code_annotation">#805000</color>
+</resources>
