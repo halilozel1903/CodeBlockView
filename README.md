@@ -8,6 +8,19 @@ An Android View for displaying read-only code snippets. Extracted from
 - Light/dark palettes and English/Turkish copy labels
 - XML and Kotlin usage; no network access or permissions
 
+## Screenshots
+
+Real screenshots from the Kotlin app's **Sealed Classes and when** lesson,
+running the published `1.0.0` dependency on a Pixel 9a emulator.
+
+| Light theme | Dark theme |
+| --- | --- |
+| <img src="docs/images/kotlin-app-light.png" alt="CodeBlockView in the Kotlin app, light theme" width="320"> | <img src="docs/images/kotlin-app-dark.png" alt="CodeBlockView in the Kotlin app, dark theme" width="320"> |
+
+The surrounding lesson text and toolbar belong to the host app. The library
+renders the card with syntax highlighting, line numbers, horizontal scrolling
+and the copy button.
+
 ## Install
 
 Requires Android API 24+, a Material Components/Material 3 theme, and a consumer
